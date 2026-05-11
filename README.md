@@ -4,7 +4,7 @@ A full-stack blogging web application that allows users to create, read, update,
 
 ---
 
-## 🚀 Features
+## 🚀 Features.
 
 - 🔐 User Authentication (Login / Signup)
 - ✍️ Create, Edit, and Delete Blog Posts
