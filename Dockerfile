@@ -4,6 +4,6 @@ EXPOSE 8080
 
 WORKDIR /usr/src/app
 
-COPY target/*.jar app.jar
+COPY target/twitter-app-0.0.3-SNAPSHOT.jar app.jar
 
 CMD ["java", "-jar", "app.jar"]
