@@ -1,4 +1,4 @@
-# 📝 FullStack Blogging Application.
+# 📝 FullStack Blogging Application
 
 A full-stack blogging web application that allows users to create, read, update, and delete blog posts with authentication and user management features.
 
